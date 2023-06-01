@@ -67,15 +67,15 @@ nav ul li a.active{
   height: 700px;
 }
 .bg1{
-	background: url(bg1.png) no-repeat;
+	background: url(Bg1.png) no-repeat;
 	background-size: cover;
 }
 .bg2{
-	background: url(bg2.png) no-repeat;
+	background: url(Bg2.png) no-repeat;
 	background-size: cover;
 }
 .bg3{
-	background: url(bg3.jpg) no-repeat;
+	background: url(Bg3.jpg) no-repeat;
 	background-size: cover;	
 }
 
